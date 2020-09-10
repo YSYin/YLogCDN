@@ -1,0 +1,16 @@
+/*@font-face {
+   font-family: 'webfont';
+   font-display: swap;
+   src: url('.eot');  //IE9
+   src: url('.eot') format('embedded-opentype'),  // IE6-IE8 
+        url('.woff2') format('woff2'),
+        url('.woff') format('woff'),  //chrome、firefox 
+        url('.ttf') format('truetype'),  // chrome、firefox、opera、Safari, Android, iOS 4.2+
+        url('.svg') format('svg');  // iOS 4.1- 
+}
+*/
+@font-face {
+   font-family: 'sleek';
+   font-display: swap;
+   src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2') format('woff2')
+}

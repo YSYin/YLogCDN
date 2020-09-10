@@ -10,7 +10,7 @@
 }
 */
 @font-face {
-   font-family: 'sleek';
+   font-family: 'faregular';
    font-display: swap;
-   src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2') format('woff2')
+   src: url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2') format('woff2')
 }
